@@ -8,6 +8,8 @@
     <title></title>
   </head>
   <body>
-
+<form>
+<input type="text" placeholder="nombre">
+</form>
   </body>
 </html>
