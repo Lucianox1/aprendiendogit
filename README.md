@@ -8,4 +8,4 @@
 4. Para hacer un commit a los archivos previamente agregados
 ### git commit -m "mensaje del commit"
 5. Para subir los cambios al repositorio remoto
-### git push origin master
+### git push origin Master
